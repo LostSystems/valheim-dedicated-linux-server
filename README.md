@@ -6,7 +6,7 @@ This guide is tailored for Ubuntu, within the /home/user directory and runs in s
 
 **RUN THESE AT ROOT LEVEL**
 
-apt install screen -y
+apt install screen software-properties-common -y
 
 dpkg --add-architecture i386
 
