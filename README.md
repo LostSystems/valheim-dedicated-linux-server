@@ -2,7 +2,7 @@
 
 I've found the guide on Valheim Fandom doesn't really work well. So after a lot of trial and error this is what worked for me.
 
-This guide is tailored for install within the /home/user directory and runs in screen, modify the scripts as needed for your specific install. Certain areas will be marked "user directory", "valheim server directory" and "user" which will need to be filled in based on your install.
+This guide is tailored for Ubuntu, within the /home/user directory and runs in screen, modify the scripts as needed for your specific install. Certain areas will be marked "user directory", "valheim server directory" and "user" which will need to be filled in based on your install.
 
 **RUN THESE AT ROOT LEVEL**
 
