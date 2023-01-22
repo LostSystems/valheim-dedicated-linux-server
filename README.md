@@ -1,8 +1,12 @@
 # Valheim-Dedicated-Linux-Server
 
-I've found the guide on Valheim Fandom doesn't really work well. So after a lot of trial and error this is what worked for me.
+I've found the guide on Valheim Fandom doesn't really work well. So after a lot of trial and error this is what worked for me. This guide assumes you've installed Steamcmd and followed the guide verbatum for a Linux install.
 
 This guide is tailored for Ubuntu, within the /home/user directory and runs in screen, modify the scripts as needed for your specific install. Certain areas will be marked "user directory", "valheim server directory" and "user" which will need to be filled in based on your install.
+
+## Installing Valheim and starting dependencies
+
+steamcmd +force_install_dir /home/user directory/valheim server directory +login anonymous +app_update 896660 validate +quit
 
 **RUN THESE AT ROOT LEVEL**
 
